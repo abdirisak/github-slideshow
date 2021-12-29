@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+great journey starts with the first step
 Use the left arrow to go back!
